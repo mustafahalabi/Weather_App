@@ -53,7 +53,7 @@ const Home = () => {
     }
 
     return (
-      <Animated.View style={styles.main} entering={FadeIn}>
+      <View style={styles.main}>
         <StatusBar style='inverted' />
 
         {/* Present Date */}
@@ -207,7 +207,7 @@ const Home = () => {
         <View style={styles.DailyData} >
           <DailyData dayData={daysData} tempData={tempData} />
         </View>
-      </Animated.View>
+      </View>
     );
   } else {
     return <Loading />;
