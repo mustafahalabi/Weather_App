@@ -24,6 +24,7 @@ This is a weahter app build with React Native. Which is useing openweather API f
 - TypeScript
 - Lottie
 - Visual Studio Code
+- Android Studio
 - Git & GitHub <br/>
 
 # Thank-you for visiting 🤗😉😊
