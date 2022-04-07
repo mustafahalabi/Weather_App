@@ -22,7 +22,7 @@ This is a weahter app build with React Native. Which is useing openweather API f
 - React Native Reanimated V2
 - Expo
 - TypeScript
-- Lootie
+- Lottie
 - Visual Studio Code
 - Git & GitHub <br/>
 
