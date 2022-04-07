@@ -10,7 +10,7 @@ This is a weahter app build with React Native. Which is useing openweather API f
 
 # How it look's😎
 
-<img src="/showcase/screen1.gif"/>
+<img src="/showcase/sscreen1.gif"/>
 <img src="/showcase/screen2.gif"/>
 <img src="/showcase/screen3.gif"/>
 <img src="/showcase/screen4.gif"/>
