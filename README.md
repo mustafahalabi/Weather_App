@@ -6,18 +6,24 @@
 
 # Project Name : Weather App
 
-This is a weahter app build with React Native. Which is useing openweather API for weather data. 
+This is a weahter app build with React Native. Which is useing openweather API for weather data.
 
 # How it look's😎
 
+<img src="/showcase/screen1.gif"/>
+<img src="/showcase/screen2.gif"/>
+<img src="/showcase/screen3.gif"/>
+<img src="/showcase/screen4.gif"/>
 
 # Technologies🛠️
+
 - React Native
 - React Navigation
 - React Native Reanimated V2
 - Expo
-- TypeScript 
+- TypeScript
 - Lootie
 - Visual Studio Code
 - Git & GitHub <br/>
+
 # Thank-you for visiting 🤗😉😊
